@@ -13,12 +13,16 @@
     * **Specialized:** Quantum Computing (D-Wave), Geospatial Analysis (GeoPandas)
     
     ## 🚀 Key Projects
-    * **NYC Quantum Route Optimization:** Solving TSP for urban delivery using QAOA on D-Wave annealers.
-    * **Claims Advocate RAG:** Architecting medical appeal automation using AWS Bedrock.
-    * **EV Infrastructure Model:** Geospatial demand-driven placement for Caltrans.
+    * **NYC Vehicle Route Optimization (Independent):** Engineered a Quantum Approximate Optimization Algorithm (QAOA) to           minimize delivery latency for complex urban routing using D-Wave quantum annealers.
+    
+    * **EV Infrastructure Optimization (Caltrans):** Leveraged Python and geospatial analysis to architect a demand-based           placement model for charging stations across California.
+    
+    * **HackDavis Cloth Classifier (Hackathon):** Engineered a full-stack platform using CNNs and TensorFlow to automate            garment classification and donation tracking via a MySQL-integrated web interface.
+    
+    * **Relativistic Gravitational Wave Simulation (Space and Satellite Club):** Implemented finite difference methods in           Python to solve linearized PDEs, visualizing spacetime ripples and benchmarking results against LIGO astrophysical          data.
     
     ## 🎓 Education
     * **B.S. Mathematical & Scientific Computation** | University of California, Davis (GPA: 3.94)
     
     ---
-    📫 **How to reach me:** [Your Email] | [LinkedIn Link]
+ 
